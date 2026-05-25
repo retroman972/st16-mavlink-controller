@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ST16 MAVLink Controller</string>
+    <string name="title_activity_main">ST16 MAVLink Controller</string>
+    <string name="connect_button">Connecter</string>
+    <string name="disconnect_button">Déconnecter</string>
+    <string name="ip_address_hint">Adresse IP du drone</string>
+    <string name="port_hint">Port MAVLink</string>
+    <string name="status_label">État</string>
+    <string name="telemetry_label">Télémétrie</string>
+    <string name="ready_to_connect">Prêt à se connecter</string>
+    <string name="connecting">Connexion en cours...</string>
+    <string name="connected">Connecté</string>
+    <string name="disconnected">Déconnecté</string>
+    <string name="error_empty_ip">Entrez une adresse IP</string>
+    <string name="error_invalid_port">Entrez un port valide</string>
+</resources>
